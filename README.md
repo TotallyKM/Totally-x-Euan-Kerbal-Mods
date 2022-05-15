@@ -1,4 +1,4 @@
-# Totally-x-Euan-Kerbal-Mods
+# Totally x Euan Kerbal Mods
 KSP | Our Mod Projects |
 
 
@@ -12,5 +12,6 @@ Projects:
 
 • Rocket Lab's Electron (Planned)
 
-# Recommended-Mods:
+# Recommended Mods:
+
 
