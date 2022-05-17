@@ -11,3 +11,9 @@ Projects:
 • SpaceX's A Shortfall Of Gravitas Droneship
 
 • Rocket Lab's Electron (Planned)
+
+# Recommended Mods:
+
+• Tundra Exploration (Falcon 9)
+• Vessel Mover
+• HyperEdit
