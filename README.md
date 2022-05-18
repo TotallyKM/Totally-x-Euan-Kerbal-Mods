@@ -15,7 +15,5 @@ Projects:
 # Recommended Mods:
 
 • Tundra Exploration (Falcon 9)
-
 • Vessel Mover
-
 • HyperEdit
